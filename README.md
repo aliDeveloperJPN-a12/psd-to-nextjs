@@ -1,16 +1,11 @@
-watch this website online : (https://nobitex-95p6-ejgorq7tx-alideveloperjpn-a12.vercel.app/)
-
-PICS :
-![Screenshot - 4_9_2023 , 4_23_37 AM](https://user-images.githubusercontent.com/115926291/230769810-2f901d70-0b06-4710-b66f-ca79795cf1ee.png)
-![Screenshot - 4_9_2023 , 4_23_44 AM](https://user-images.githubusercontent.com/115926291/230769814-0872de8b-129c-4024-bb54-7326641e9d06.png)
-![Screenshot - 4_9_2023 , 4_23_47 AM](https://user-images.githubusercontent.com/115926291/230769816-1df04c94-5a73-4b88-af22-a9b4fe822c80.png)
-![Screenshot - 4_9_2023 , 4_23_52 AM](https://user-images.githubusercontent.com/115926291/230769821-480d20e1-b009-48b1-a45e-0057a810cf0d.png)
-![Screenshot - 4_9_2023 , 4_23_58 AM](https://user-images.githubusercontent.com/115926291/230769827-87d3193b-7465-41bf-b07e-32bba4b528a5.png)
+pics :
+![Screenshot - 4_11_2023 , 5_52_46 AM](https://user-images.githubusercontent.com/115926291/231168304-c9bad96b-b993-464b-acfc-0e1741b6f78e.png)
+![Screenshot - 4_11_2023 , 5_52_53 AM](https://user-images.githubusercontent.com/115926291/231168329-cc407912-352f-4ba4-8310-2e0a97059653.png)
+![Screenshot - 4_11_2023 , 5_52_59 AM](https://user-images.githubusercontent.com/115926291/231168358-32c275ce-2213-4320-ad8d-4f4d165eb188.png)
+![Screenshot - 4_11_2023 , 5_53_06 AM](https://user-images.githubusercontent.com/115926291/231168384-aef9053f-62f2-49c8-856f-69c966f0b90a.png)
+![Screenshot - 4_11_2023 , 5_53_09 AM](https://user-images.githubusercontent.com/115926291/231168403-bf6977a5-f8d7-4c26-a465-23392a22a116.png)
 
 
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
